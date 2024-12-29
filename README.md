@@ -15,14 +15,14 @@ A cross-platform mobile application demonstrating state management approach with
 - Cubit
 
 ## Screenshots:
-- [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
-- [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
-- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)       
-- [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
-- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)       
-- [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen4.jpg)
-- [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/login.jpg)
-- [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/otpView.jpg)
+- [Home](my_projects_cubit/screenshot/home.jpg)        
+- [Intro login](my_projects_cubit/screenshot/introLogin.jpg)
+- [First intro screen](my_projects_cubit/screenshot/introScreen1.jpg)       
+- [Second intro screen](my_projects_cubit/screenshot/introScreen2.jpg)
+- [Third intro screen](my_projects_cubit/screenshot/introScreen3.jpg)       
+- [Fourth intro screen](my_projects_cubit/screenshot/introScreen4.jpg)
+- [Login](my_projects_cubit/screenshot/login.jpg)
+- [OTP](my_projects_cubit/screenshot/otpView.jpg)
  
 ## Setup Instructions:
 1. Clone the repository.
