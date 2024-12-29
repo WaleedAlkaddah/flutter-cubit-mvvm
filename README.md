@@ -1,6 +1,6 @@
 # Flutter App
 
-A cross-platform mobile application demonstrating  state management approaches with  Cubit.
+A cross-platform mobile application demonstrating state management approach with Cubit.
 
 ## Features:
 - API interceptor for efficient HTTP request management.
