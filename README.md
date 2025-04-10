@@ -29,3 +29,6 @@ A cross-platform mobile application demonstrating state management approach with
 2. Run `flutter pub get` to fetch dependencies.
 3. Run the app on your emulator or device.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](my_projects_cubit/license) file for details.
