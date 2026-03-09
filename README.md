@@ -15,14 +15,14 @@ A cross-platform mobile application demonstrating state management approach with
 - Cubit
 
 ## Screenshots:
-- [Home](my_projects_cubit/screenshot/home.jpg)        
-- [Intro login](my_projects_cubit/screenshot/introLogin.jpg)
-- [First intro screen](my_projects_cubit/screenshot/introScreen1.jpg)       
-- [Second intro screen](my_projects_cubit/screenshot/introScreen2.jpg)
-- [Third intro screen](my_projects_cubit/screenshot/introScreen3.jpg)       
-- [Fourth intro screen](my_projects_cubit/screenshot/introScreen4.jpg)
-- [Login](my_projects_cubit/screenshot/login.jpg)
-- [OTP](my_projects_cubit/screenshot/otpView.jpg)
+- [Home](my_projects_cubit/screenshots/home.jpg)        
+- [Intro login](my_projects_cubit/screenshots/introLogin.jpg)
+- [First intro screen](my_projects_cubit/screenshots/introScreen1.jpg)       
+- [Second intro screen](my_projects_cubit/screenshots/introScreen2.jpg)
+- [Third intro screen](my_projects_cubit/screenshots/introScreen3.jpg)       
+- [Fourth intro screen](my_projects_cubit/screenshots/introScreen4.jpg)
+- [Login](my_projects_cubit/screenshots/login.jpg)
+- [OTP](my_projects_cubit/screenshots/otpView.jpg)
  
 ## Setup Instructions:
 1. Clone the repository.
